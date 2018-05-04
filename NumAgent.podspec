@@ -17,5 +17,7 @@ Pod::Spec.new do |s|
 
   s.source_files  = "NumAgent/*.{h,m}"
 
+  s.frameworks    = 'Foundation'
+
   s.requires_arc = true
 end
