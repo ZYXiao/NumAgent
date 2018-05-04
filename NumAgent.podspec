@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "NumAgent"
 
-  s.version      = "v0.0.1"
+  s.version      = "0.0.1"
 
   s.summary      = "Number format utils."
 
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/ZYXiao/NumAgent.git", :tag => "v0.0.1" }
+  s.source       = { :git => "https://github.com/ZYXiao/NumAgent.git", :tag => "0.0.1" }
 
   s.source_files  = "NumAgent/*.{h,m}"
 
